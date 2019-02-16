@@ -1,12 +1,35 @@
 ﻿using System;
 
+
 namespace URLEncoder
 {
-    class Program
+    class UrlEncoder
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string project_name = " ";
+            string activity_name = " ";
+
+            try
+            {
+                Console.WriteLine("Enter project name");
+                project_name = Console.ReadLine();
+
+
+                Console.WriteLine("Enter activity name");
+                activity_name = Console.ReadLine();
+
+
+                string url = "https://companyserver.com/content/" + project_name + "/files/" + activity_name + "/" + activity_name + "Report.pdf";
+                Console.WriteLine("\n");
+                Console.WriteLine(url);
+                Console.ReadLine();
+            }
+            catch
+            {
+                Console.WriteLine("PLease enter vaild details");
+            }
+
         }
     }
 }
