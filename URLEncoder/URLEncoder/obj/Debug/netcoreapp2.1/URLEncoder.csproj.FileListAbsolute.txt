@@ -1,0 +1,11 @@
+/Users/chelsealaptop/Documents/School/2040/Projects/URLEncoder/URLEncoder/URLEncoder/bin/Debug/netcoreapp2.1/URLEncoder.deps.json
+/Users/chelsealaptop/Documents/School/2040/Projects/URLEncoder/URLEncoder/URLEncoder/bin/Debug/netcoreapp2.1/URLEncoder.runtimeconfig.json
+/Users/chelsealaptop/Documents/School/2040/Projects/URLEncoder/URLEncoder/URLEncoder/bin/Debug/netcoreapp2.1/URLEncoder.runtimeconfig.dev.json
+/Users/chelsealaptop/Documents/School/2040/Projects/URLEncoder/URLEncoder/URLEncoder/bin/Debug/netcoreapp2.1/URLEncoder.dll
+/Users/chelsealaptop/Documents/School/2040/Projects/URLEncoder/URLEncoder/URLEncoder/bin/Debug/netcoreapp2.1/URLEncoder.pdb
+/Users/chelsealaptop/Documents/School/2040/Projects/URLEncoder/URLEncoder/URLEncoder/obj/Debug/netcoreapp2.1/URLEncoder.csprojAssemblyReference.cache
+/Users/chelsealaptop/Documents/School/2040/Projects/URLEncoder/URLEncoder/URLEncoder/obj/Debug/netcoreapp2.1/URLEncoder.csproj.CoreCompileInputs.cache
+/Users/chelsealaptop/Documents/School/2040/Projects/URLEncoder/URLEncoder/URLEncoder/obj/Debug/netcoreapp2.1/URLEncoder.AssemblyInfoInputs.cache
+/Users/chelsealaptop/Documents/School/2040/Projects/URLEncoder/URLEncoder/URLEncoder/obj/Debug/netcoreapp2.1/URLEncoder.AssemblyInfo.cs
+/Users/chelsealaptop/Documents/School/2040/Projects/URLEncoder/URLEncoder/URLEncoder/obj/Debug/netcoreapp2.1/URLEncoder.dll
+/Users/chelsealaptop/Documents/School/2040/Projects/URLEncoder/URLEncoder/URLEncoder/obj/Debug/netcoreapp2.1/URLEncoder.pdb
